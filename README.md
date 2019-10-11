@@ -1,2 +1,4 @@
-# Csc102-Project
-A crazy 8 card game
+# Csc102-Project by Obtuse Minds
+
+This is a card game of crazy 8 
+
